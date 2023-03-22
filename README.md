@@ -1,3 +1,4 @@
-# basic-website-design!
+# basic-website-design
 
-[Screenshot 2023-03-22 235544](https://user-images.githubusercontent.com/60459622/227002228-6c76ea7e-a1ef-4d24-83a5-842ff1afb8d9.png)
+
+![basic design of website(introduction to html and css)](https://user-images.githubusercontent.com/60459622/227002793-dfd29f4b-3d47-4cfb-8ec0-2caf2d577014.png)
